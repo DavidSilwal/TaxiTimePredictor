@@ -1,0 +1,11 @@
+C:\Users\dedav\source\repos\MLdotNET\MLdotNET\bin\Debug\netcoreapp2.0\MLdotNET.deps.json
+C:\Users\dedav\source\repos\MLdotNET\MLdotNET\bin\Debug\netcoreapp2.0\MLdotNET.runtimeconfig.json
+C:\Users\dedav\source\repos\MLdotNET\MLdotNET\bin\Debug\netcoreapp2.0\MLdotNET.runtimeconfig.dev.json
+C:\Users\dedav\source\repos\MLdotNET\MLdotNET\bin\Debug\netcoreapp2.0\MLdotNET.dll
+C:\Users\dedav\source\repos\MLdotNET\MLdotNET\obj\Debug\netcoreapp2.0\MLdotNET.csprojAssemblyReference.cache
+C:\Users\dedav\source\repos\MLdotNET\MLdotNET\obj\Debug\netcoreapp2.0\MLdotNET.csproj.CoreCompileInputs.cache
+C:\Users\dedav\source\repos\MLdotNET\MLdotNET\obj\Debug\netcoreapp2.0\MLdotNET.AssemblyInfoInputs.cache
+C:\Users\dedav\source\repos\MLdotNET\MLdotNET\obj\Debug\netcoreapp2.0\MLdotNET.AssemblyInfo.cs
+C:\Users\dedav\source\repos\MLdotNET\MLdotNET\bin\Debug\netcoreapp2.0\MLdotNET.pdb
+C:\Users\dedav\source\repos\MLdotNET\MLdotNET\obj\Debug\netcoreapp2.0\MLdotNET.dll
+C:\Users\dedav\source\repos\MLdotNET\MLdotNET\obj\Debug\netcoreapp2.0\MLdotNET.pdb
